@@ -1,0 +1,2 @@
+# To tackle ValueError: yaml file is empty; I have instead used a dummy single key-value pair record.
+key: value
