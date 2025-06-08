@@ -1,6 +1,3 @@
-def main():
-    print("Hello from data-science-project-with-deployment!")
+from src.data_science import logger
 
-
-if __name__ == "__main__":
-    main()
+logger.info("Welcome to custom logging system!")
