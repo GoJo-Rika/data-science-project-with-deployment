@@ -1,5 +1,11 @@
 pandas
+numpy
+matplotlib
 scikit-learn
 mlflow
 python-box
 ensure
+tqdm
+joblib
+Flask
+python-dotenv
