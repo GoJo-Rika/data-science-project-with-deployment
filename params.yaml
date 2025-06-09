@@ -1,2 +1,3 @@
-# To tackle ValueError: yaml file is empty; I have instead used a dummy single key-value pair record.
-key: value
+ElasticNet:
+  alpha: 0.2
+  l1_ratio: 0.1
