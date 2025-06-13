@@ -9,3 +9,5 @@ tqdm
 joblib
 Flask
 python-dotenv
+pyYAML
+types-PyYAML
