@@ -1,0 +1,22 @@
+[project]
+name = "data-science-project-with-deployment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ensure>=1.0.4",
+    "flask>=3.1.1",
+    "ipykernel>=6.29.5",
+    "joblib>=1.5.1",
+    "matplotlib>=3.10.3",
+    "mlflow>=2.22.1",
+    "numpy>=2.3.0",
+    "pandas>=2.2.3",
+    "python-box>=7.3.2",
+    "python-dotenv>=1.1.0",
+    "pyyaml>=6.0.2",
+    "scikit-learn>=1.7.0",
+    "tqdm>=4.67.1",
+    "types-pyyaml>=6.0.12.20250516",
+]
